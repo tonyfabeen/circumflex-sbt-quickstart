@@ -10,3 +10,5 @@ Quick start.
     > update
     > jetty-run
 3. check out http://localhost:8180 (should be <h1>it works!</h1>)
+
+Also you can make orm stuff in sbt console just like in mvn scala:console

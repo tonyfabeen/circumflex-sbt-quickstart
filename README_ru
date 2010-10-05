@@ -10,3 +10,5 @@
     > update
     > jetty-run
 3. По адресу http://localhost:8180 должна быть страница с содержанием: "<h1>it works!</h1>"
+
+orm операции внутри sbt console доступны так же, как и внутри mvn scala:console
