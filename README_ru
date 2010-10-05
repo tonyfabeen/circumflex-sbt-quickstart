@@ -1,4 +1,4 @@
-В этом репозитории - скелет веб проекта <a href="http://circumflex.ru">circumflex</a>, который можно собрать с помощью <a href="http://code.google.com/p/simple-build-tool">simple build tool</a>.
+В этом репозитории - скелет веб проекта http://circumflex.ru", который можно собрать с помощью http://code.google.com/p/simple-build-tool.
 
 Получить проект можно с помощью git clone git://github.com/andreyshikov/circumflex-sbt-quickstart.git
 или, скачав http://github.com/downloads/andreyshikov/circumflex-sbt-quickstart/circumflex-sbt-quickstart.zip.

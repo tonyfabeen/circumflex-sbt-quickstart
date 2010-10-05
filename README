@@ -1,4 +1,4 @@
-This repository contains default <a href="http://code.google.com/p/simple-build-tool">simple build tool</a> project for <a href="http://circumflex.ru">circumflex</a> web application.
+This repository contains default http://code.google.com/p/simple-build-tool project for http://circumflex.ru web application.
 
 You can get this skeleton by git clone git://github.com/andreyshikov/circumflex-sbt-quickstart.git
 or download http://github.com/downloads/andreyshikov/circumflex-sbt-quickstart/circumflex-sbt-quickstart.zip and unzip it.
