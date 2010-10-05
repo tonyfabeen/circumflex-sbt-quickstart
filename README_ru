@@ -1,7 +1,7 @@
 В этом репозитории - скелет веб проекта http://circumflex.ru", который можно собрать с помощью http://code.google.com/p/simple-build-tool.
 
-Получить проект можно с помощью git clone git://github.com/andreyshikov/circumflex-sbt-quickstart.git
-или, скачав http://github.com/downloads/andreyshikov/circumflex-sbt-quickstart/circumflex-sbt-quickstart.zip.
+Получить пустой проект можно так - git clone git://github.com/andreyshikov/circumflex-sbt-quickstart.git
+или так - http://github.com/downloads/andreyshikov/circumflex-sbt-quickstart/circumflex-sbt-quickstart.zip.
 
 Быстрый старт.
 1. Запустить sbt:
